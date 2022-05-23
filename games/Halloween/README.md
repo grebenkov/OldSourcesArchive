@@ -24,3 +24,11 @@ I've fixed some typos/bugs:
 ## Gameplay
 
 See [video](https://www.youtube.com/watch?v=XP-Ca5uGUAQ).
+
+## Running 
+
+Use emulator from [here](http://gid.pdp-11.ru/).
+
+Put HALLOW.COD to bin folder.
+
+Load with CLOAD "HALLOW"
